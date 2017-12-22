@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\KIT\YEAR I\Semester 1\Java Advance\03_ClassStructures\StaticInitializer"/>
+		<item value="D:\KIT\YEAR I\Semester 1\Java Advance\03_ClassStructures"/>
+		<item value="D:\KIT\YEAR I\Semester 1\Java Advance\02_Java7NF\StringsInSwitch"/>
+		<item value="D:\KIT\YEAR I\Semester 1\Java Advance\02_Java7NF\NumericLiterals"/>
+		<item value="D:\KIT\YEAR I\Semester 1\Java Advance\02_Java7NF\SimplifiedGenerics"/>
+	</list>
+</section>
